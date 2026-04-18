@@ -1,0 +1,14 @@
+G:\Rider sulutions\CoordinateSystemApp\CoordinateSystemApp\obj\Debug\net10.0\CoordinateSystemApp.GeneratedMSBuildEditorConfig.editorconfig
+G:\Rider sulutions\CoordinateSystemApp\CoordinateSystemApp\obj\Debug\net10.0\CoordinateSystemApp.AssemblyInfoInputs.cache
+G:\Rider sulutions\CoordinateSystemApp\CoordinateSystemApp\obj\Debug\net10.0\CoordinateSystemApp.AssemblyInfo.cs
+G:\Rider sulutions\CoordinateSystemApp\CoordinateSystemApp\obj\Debug\net10.0\CoordinateSystemApp.csproj.CoreCompileInputs.cache
+G:\Rider sulutions\CoordinateSystemApp\CoordinateSystemApp\obj\Debug\net10.0\CoordinateSystemApp.dll
+G:\Rider sulutions\CoordinateSystemApp\CoordinateSystemApp\obj\Debug\net10.0\refint\CoordinateSystemApp.dll
+G:\Rider sulutions\CoordinateSystemApp\CoordinateSystemApp\obj\Debug\net10.0\CoordinateSystemApp.pdb
+G:\Rider sulutions\CoordinateSystemApp\CoordinateSystemApp\bin\Debug\net10.0\CoordinateSystemApp.exe
+G:\Rider sulutions\CoordinateSystemApp\CoordinateSystemApp\bin\Debug\net10.0\CoordinateSystemApp.deps.json
+G:\Rider sulutions\CoordinateSystemApp\CoordinateSystemApp\bin\Debug\net10.0\CoordinateSystemApp.runtimeconfig.json
+G:\Rider sulutions\CoordinateSystemApp\CoordinateSystemApp\bin\Debug\net10.0\CoordinateSystemApp.dll
+G:\Rider sulutions\CoordinateSystemApp\CoordinateSystemApp\bin\Debug\net10.0\CoordinateSystemApp.pdb
+G:\Rider sulutions\CoordinateSystemApp\CoordinateSystemApp\obj\Debug\net10.0\CoordinateSystemApp.genruntimeconfig.cache
+G:\Rider sulutions\CoordinateSystemApp\CoordinateSystemApp\obj\Debug\net10.0\ref\CoordinateSystemApp.dll

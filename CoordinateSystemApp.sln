@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoordinateSystemApp", "CoordinateSystemApp\CoordinateSystemApp.csproj", "{A7073A16-D0E3-4B23-92AF-9FA6A6334CEA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A7073A16-D0E3-4B23-92AF-9FA6A6334CEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7073A16-D0E3-4B23-92AF-9FA6A6334CEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7073A16-D0E3-4B23-92AF-9FA6A6334CEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7073A16-D0E3-4B23-92AF-9FA6A6334CEA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
