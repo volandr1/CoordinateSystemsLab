@@ -1,4 +1,6 @@
-﻿bin/
-obj/
+﻿# Rider / Visual Studio
 .idea/
+bin/
+obj/
 *.user
+*.suo
